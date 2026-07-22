@@ -1,0 +1,440 @@
+{
+  "gerado_em": "2026-06-30",
+  "tipo_de_pacote": "portatil_autossuficiente",
+  "observacao": "Este manifesto cobre apenas os arquivos fisicamente incluídos na pasta assets/ deste pacote. A seção 'nao_incluido_no_pacote' documenta o que existe no brand kit completo mas foi deixado de fora, e onde encontrar caso necessário.",
+  "total_arquivos_incluidos": 55,
+  "assets_incluidos": [
+    {
+      "path_relativo": "assets/cor/VML-Brand-Colors-CMYK.ase",
+      "categoria": "cor",
+      "arquivo": "VML-Brand-Colors-CMYK.ase",
+      "formato": "ase",
+      "tamanho_bytes": 1820
+    },
+    {
+      "path_relativo": "assets/cor/VML-Brand-Colors-RGB.ase",
+      "categoria": "cor",
+      "arquivo": "VML-Brand-Colors-RGB.ase",
+      "formato": "ase",
+      "tamanho_bytes": 1224
+    },
+    {
+      "path_relativo": "assets/cor/paleta_referencia/VML_Color-SecondaryColors_2.jpeg",
+      "categoria": "cor",
+      "arquivo": "VML_Color-SecondaryColors_2.jpeg",
+      "formato": "jpeg",
+      "tamanho_bytes": 475629
+    },
+    {
+      "path_relativo": "assets/cor/paleta_referencia/VML_Color_Primary_BW_Grays_2.jpeg",
+      "categoria": "cor",
+      "arquivo": "VML_Color_Primary_BW_Grays_2.jpeg",
+      "formato": "jpeg",
+      "tamanho_bytes": 276462
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_hand_drawn_arrow-up.gif",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_hand_drawn_arrow-up.gif",
+      "formato": "gif",
+      "tamanho_bytes": 167470
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_hand_drawn_checkmark.gif",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_hand_drawn_checkmark.gif",
+      "formato": "gif",
+      "tamanho_bytes": 173489
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_human_first_inky_spark_VMLBlack.png",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_human_first_inky_spark_VMLBlack.png",
+      "formato": "png",
+      "tamanho_bytes": 1452139
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_human_first_inky_spark_VMLWhite.png",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_human_first_inky_spark_VMLWhite.png",
+      "formato": "png",
+      "tamanho_bytes": 1452143
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_human_first_logo_VMLBlack.png",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_human_first_logo_VMLBlack.png",
+      "formato": "png",
+      "tamanho_bytes": 310628
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_human_first_logo_VMLWhite.png",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_human_first_logo_VMLWhite.png",
+      "formato": "png",
+      "tamanho_bytes": 306177
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_human_first_padrao.png",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_human_first_padrao.png",
+      "formato": "png",
+      "tamanho_bytes": 2635148
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_social_linkedin_corevalues.png",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_social_linkedin_corevalues.png",
+      "formato": "png",
+      "tamanho_bytes": 122546
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_social_linkedin_darkgreen.png",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_social_linkedin_darkgreen.png",
+      "formato": "png",
+      "tamanho_bytes": 20721
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_spark_halftone_Green-Sky.jpg",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_spark_halftone_Green-Sky.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 1761378
+    },
+    {
+      "path_relativo": "assets/exemplos/exemplo_supergraphic_VMLBlack-on-DarkGreen.png",
+      "categoria": "exemplo_ilustrativo",
+      "arquivo": "exemplo_supergraphic_VMLBlack-on-DarkGreen.png",
+      "formato": "png",
+      "tamanho_bytes": 70120
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/AI/VMLBLACK Icon Snowflake-CMYK.ai",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Icon Snowflake-CMYK.ai",
+      "formato": "ai",
+      "tamanho_bytes": 1000847
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/AI/VMLBLACK Icon Snowflake-RGB.ai",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Icon Snowflake-RGB.ai",
+      "formato": "ai",
+      "tamanho_bytes": 161294
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/AI/VMLBLACK Wordmark VML-CMYK.ai",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Wordmark VML-CMYK.ai",
+      "formato": "ai",
+      "tamanho_bytes": 986131
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/AI/VMLBLACK Wordmark VML-RGB.ai",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Wordmark VML-RGB.ai",
+      "formato": "ai",
+      "tamanho_bytes": 147235
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/EPS/VMLBLACK Icon Snowflake-CMYK.eps",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Icon Snowflake-CMYK.eps",
+      "formato": "eps",
+      "tamanho_bytes": 870630
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/EPS/VMLBLACK Icon Snowflake-RGB.eps",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Icon Snowflake-RGB.eps",
+      "formato": "eps",
+      "tamanho_bytes": 876418
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/EPS/VMLBLACK Wordmark VML-CMYK.eps",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Wordmark VML-CMYK.eps",
+      "formato": "eps",
+      "tamanho_bytes": 2518422
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/EPS/VMLBLACK Wordmark VML-RGB.eps",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Wordmark VML-RGB.eps",
+      "formato": "eps",
+      "tamanho_bytes": 2524210
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/JPG/VMLBLACK Icon Snowflake-RGB.jpg",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Icon Snowflake-RGB.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 104713
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/JPG/VMLBLACK Wordmark VML-RGB.jpg",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Wordmark VML-RGB.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 143935
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/PNG/VMLBLACK Icon Snowflake-RGB.png",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Icon Snowflake-RGB.png",
+      "formato": "png",
+      "tamanho_bytes": 60099
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/PNG/VMLBLACK Wordmark VML-RGB.png",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Wordmark VML-RGB.png",
+      "formato": "png",
+      "tamanho_bytes": 170042
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/SVG/VMLBLACK Icon Snowflake-RGB.svg",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Icon Snowflake-RGB.svg",
+      "formato": "svg",
+      "tamanho_bytes": 707
+    },
+    {
+      "path_relativo": "assets/logo/vmlblack/SVG/VMLBLACK Wordmark VML-RGB.svg",
+      "categoria": "logo_oficial_preto",
+      "arquivo": "VMLBLACK Wordmark VML-RGB.svg",
+      "formato": "svg",
+      "tamanho_bytes": 519
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/AI/VMLWHITE Icon Snowflake-CMYK.ai",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Icon Snowflake-CMYK.ai",
+      "formato": "ai",
+      "tamanho_bytes": 1000458
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/AI/VMLWHITE Icon Snowflake-RGB.ai",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Icon Snowflake-RGB.ai",
+      "formato": "ai",
+      "tamanho_bytes": 161298
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/AI/VMLWHITE Wordmark VML-CMYK.ai",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Wordmark VML-CMYK.ai",
+      "formato": "ai",
+      "tamanho_bytes": 1000186
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/AI/VMLWHITE Wordmark VML-RGB.ai",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Wordmark VML-RGB.ai",
+      "formato": "ai",
+      "tamanho_bytes": 161034
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/EPS/VMLWHITE Icon Snowflake-CMYK.eps",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Icon Snowflake-CMYK.eps",
+      "formato": "eps",
+      "tamanho_bytes": 870590
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/EPS/VMLWHITE Icon Snowflake-RGB.eps",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Icon Snowflake-RGB.eps",
+      "formato": "eps",
+      "tamanho_bytes": 876374
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/EPS/VMLWHITE Wordmark VML-CMYK.eps",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Wordmark VML-CMYK.eps",
+      "formato": "eps",
+      "tamanho_bytes": 2518450
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/EPS/VMLWHITE Wordmark VML-RGB.eps",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Wordmark VML-RGB.eps",
+      "formato": "eps",
+      "tamanho_bytes": 2524222
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/JPG/VMLWHITE Icon Snowflake-RGB.jpg",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Icon Snowflake-RGB.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 49787
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/JPG/VMLWHITE Wordmark VML-RGB.jpg",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Wordmark VML-RGB.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 94712
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/PNG/VMLWHITE Icon Snowflake-RGB.png",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Icon Snowflake-RGB.png",
+      "formato": "png",
+      "tamanho_bytes": 60101
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/PNG/VMLWHITE Wordmark VML-RGB.png",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Wordmark VML-RGB.png",
+      "formato": "png",
+      "tamanho_bytes": 170064
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/SVG/VMLWHITE Icon Snowflake-RGB.svg",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Icon Snowflake-RGB.svg",
+      "formato": "svg",
+      "tamanho_bytes": 707
+    },
+    {
+      "path_relativo": "assets/logo/vmlwhite/SVG/VMLWHITE Wordmark VML-RGB.svg",
+      "categoria": "logo_oficial_branco",
+      "arquivo": "VMLWHITE Wordmark VML-RGB.svg",
+      "formato": "svg",
+      "tamanho_bytes": 519
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeInline-Inlinex1.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeInline-Inlinex1.otf",
+      "formato": "otf",
+      "tamanho_bytes": 58148
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeInline-Inlinex2.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeInline-Inlinex2.otf",
+      "formato": "otf",
+      "tamanho_bytes": 73536
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-Black.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-Black.otf",
+      "formato": "otf",
+      "tamanho_bytes": 42916
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-BlackItalic.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-BlackItalic.otf",
+      "formato": "otf",
+      "tamanho_bytes": 43176
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-Bold.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-Bold.otf",
+      "formato": "otf",
+      "tamanho_bytes": 43096
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-BoldItalic.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-BoldItalic.otf",
+      "formato": "otf",
+      "tamanho_bytes": 43400
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-Book.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-Book.otf",
+      "formato": "otf",
+      "tamanho_bytes": 42208
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-Italic.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-Italic.otf",
+      "formato": "otf",
+      "tamanho_bytes": 42532
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-Light.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-Light.otf",
+      "formato": "otf",
+      "tamanho_bytes": 41516
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-LightItalic.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-LightItalic.otf",
+      "formato": "otf",
+      "tamanho_bytes": 41932
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-Medium.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-Medium.otf",
+      "formato": "otf",
+      "tamanho_bytes": 42992
+    },
+    {
+      "path_relativo": "assets/tipografia/SnowflakeSans-MediumItalic.otf",
+      "categoria": "tipografia",
+      "arquivo": "SnowflakeSans-MediumItalic.otf",
+      "formato": "otf",
+      "tamanho_bytes": 43116
+    }
+  ],
+  "nao_incluido_no_pacote": [
+    {
+      "categoria": "video",
+      "descricao": "Ident animado, backgrounds animados, supergraphics animados, vídeo institucional, vídeo Anthemic Human First, end card Human First",
+      "onde_encontrar": "brand kit completo: 01_logo/ident_animado, 04_elementos_de_design/*_animado, 05_human_first/video, 08_video_institucional"
+    },
+    {
+      "categoria": "templates_apresentacao",
+      "descricao": "Arquivos .pptx/.key/.docx completos (deck geral, cred deck, case study, keynote, letterhead) — só os nomes de layout foram catalogados em 11_templates_apresentacao.md",
+      "onde_encontrar": "brand kit completo: 06_templates/"
+    },
+    {
+      "categoria": "guideline_pdf_original",
+      "descricao": "PDF original de 123 páginas (519MB) — conteúdo já extraído integralmente para os .md deste pacote",
+      "onde_encontrar": "brand kit completo: 00_guideline/"
+    },
+    {
+      "categoria": "biblioteca_completa_halftone",
+      "descricao": "Dezenas de variações de Spark halftone texture por família de cor — só 1 exemplo incluído",
+      "onde_encontrar": "brand kit completo: 04_elementos_de_design/spark_halftone_texture/"
+    },
+    {
+      "categoria": "biblioteca_completa_supergraphics",
+      "descricao": "12 combinações de cor de supergraphic — só 1 exemplo incluído",
+      "onde_encontrar": "brand kit completo: 04_elementos_de_design/supergraphics_estatico/"
+    },
+    {
+      "categoria": "hand_drawn_adicional",
+      "descricao": "Variações X, circle, rectangle, smiley face, arrow-forward (e versões .mov) — só checkmark e arrow-up (.gif) incluídos",
+      "onde_encontrar": "brand kit completo: 04_elementos_de_design/hand_drawn/"
+    },
+    {
+      "categoria": "core_values_illustration",
+      "descricao": "Ilustrações Heart, Brains, Courage — não incluídas neste recorte",
+      "onde_encontrar": "brand kit completo: 04_elementos_de_design/ (ver guideline p.53)"
+    },
+    {
+      "categoria": "human_first_inky_spark_adicional",
+      "descricao": "Variações numeradas 2 e 3 do Inky Spark, e o arquivo-fonte .psd (75MB) — só o ícone 'Fingerprint' incluído por cor",
+      "onde_encontrar": "brand kit completo: 05_human_first/icones_inky_spark/"
+    },
+    {
+      "categoria": "social_media_completo",
+      "descricao": "19 das 21 combinações de header social (Facebook, X, e demais variantes de cor do LinkedIn) — só 2 exemplos de LinkedIn incluídos",
+      "onde_encontrar": "brand kit completo: 07_social/"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Logo — Manual de Marca VML</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <img src="img/logo/vml-wordmark-black.svg" alt="VML">
+      <img src="img/logo/vml-wordmark-white.svg" alt="VML">
+      <span class="tag">Manual de Marca</span>
+    </a>
+  </div>
+  <nav class="tabs">
+    <a href="index.html">Início</a>
+    <a href="principios.html">Princípios</a>
+    <a href="logo.html" class="active">Logo</a>
+    <a href="cor.html">Cor</a>
+    <a href="tipografia.html">Tipografia</a>
+    <a href="layout.html">Layout &amp; Grid</a>
+    <a href="elementos.html">Elementos</a>
+    <a href="human-first.html">Human First</a>
+    <a href="aplicacoes.html">Aplicações</a>
+    <a href="governanca.html">QA &amp; Governança</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  <p class="kicker">02 — Logo</p>
+  <h1>O logotipo, o Spark, e a regra zero.</h1>
+  <p class="lede">O logotipo e o Spark nunca são gerados, desenhados ou reconstruídos a partir de descrição textual. É sempre o arquivo binário original que deve ser inserido na peça final.</p>
+
+  <div class="figure">
+    <img src="img/logo/vml-wordmark-black.svg" alt="Logotipo VML, versão preta" style="height:64px; width:auto;">
+    <figcaption>Logotipo VML — versão preta (SVG oficial, escalável, incluído em <code>agente/assets/logo/vmlblack/</code>).</figcaption>
+  </div>
+  <div class="figure on-black">
+    <img src="img/logo/vml-wordmark-white.svg" alt="Logotipo VML, versão branca" style="height:64px; width:auto;">
+    <figcaption>Logotipo VML — versão branca, sobre fundo preto.</figcaption>
+  </div>
+
+  <div class="rule">
+    <div class="label">Regra zero</div>
+    Nunca usar um gerador de imagem (Canva, DALL·E, SVG escrito à mão, etc.) para produzir uma versão nova do logotipo ou do Spark — mesmo "só para preencher espaço". A regra é sobre <b>proveniência do arquivo</b>, não só sobre aparência final.
+  </div>
+
+  <h2>Mudança de direção</h2>
+  <p style="font-size:14px; max-width:640px;">A VML está migrando de "Spark grande + logotipo pequeno em lockup" para <b>logotipo como asset dominante</b>, com o Spark em uso secundário e comedido. Se uma peça de referência antiga mostra Spark grande dominando a composição, ela está desatualizada frente a este guideline.</p>
+
+  <h2>Hierarquia de uso</h2>
+  <ol style="font-size:14px; max-width:640px; padding-left:20px;">
+    <li style="margin-bottom:10px;"><b>Logotipo sozinho</b> — uso encorajado em aplicações de propriedade/branded da VML. Forma preferencial.</li>
+    <li style="margin-bottom:10px;"><b>Logotipo + Spark separados</b> — quando se deseja um elemento gráfico de marca adicional. Como elementos distintos, não lockup fundido.</li>
+    <li><b>Spark sozinho</b> — assinatura secundária (ex.: primeira/última página de um deck, rodapé de site).</li>
+  </ol>
+
+  <h2>Tamanhos mínimos</h2>
+  <table>
+    <tr><th>Elemento</th><th>Impresso</th><th>Digital</th></tr>
+    <tr><td>Logotipo primário</td><td>0,5"</td><td>24px</td></tr>
+    <tr><td>Spark (símbolo)</td><td>0,5"</td><td>24px</td></tr>
+    <tr><td>Logo de programas/estúdios ("AT VML")</td><td>0,25"</td><td>50px</td></tr>
+  </table>
+
+  <h2>Proporção logotipo × Spark (separados)</h2>
+  <ul class="checklist">
+    <li>Alinhados no eixo X: Spark geralmente casa com 100% da altura do logotipo.</li>
+    <li>Alinhados no eixo Y: ponto de partida é Spark = 50% da altura do logo (logo grande).</li>
+    <li>Logo pequeno na composição: usar Spark a 75% do tamanho do logo.</li>
+    <li>Watch-out: Spark nunca maior que a altura do logotipo quando usados separados.</li>
+  </ul>
+
+  <h2>Arquitetura de marca</h2>
+  <p style="font-size:14px; max-width:640px;">Marca-mãe → nomes com "VML" (endorsement) → nomes com linha de endosso → logos de aquisição com linha de endosso → programas/estúdios/práticas (sublinha "AT VML") → branding local de escritório (uso casual apenas, nunca substitui a assinatura primária).</p>
+  <p style="font-size:14px; max-width:640px;">Logos regionais com o símbolo Spark: usar exclusivamente <b>Snowflake Sans Black</b>.</p>
+
+  <div class="do">
+    <div class="label">Do</div>
+    Usar logotipo preto ou branco na maioria das representações.
+  </div>
+  <div class="dont">
+    <div class="label">Don't</div>
+    Preencher logotipo e Spark com cores diferentes na mesma peça. Criar logos ou lockups próprios — encaminhar ao time de Brand Design.
+  </div>
+
+  <h2>Assets oficiais disponíveis</h2>
+  <table>
+    <tr><th>Variante</th><th>Path (em <code>agente/</code>)</th><th>Formatos</th></tr>
+    <tr><td>Wordmark + Ícone Snowflake, preta</td><td><code>assets/logo/vmlblack/{AI,EPS,JPG,PNG,SVG}</code></td><td>CMYK e RGB</td></tr>
+    <tr><td>Wordmark + Ícone Snowflake, branca</td><td><code>assets/logo/vmlwhite/{AI,EPS,JPG,PNG,SVG}</code></td><td>CMYK e RGB</td></tr>
+  </table>
+  <p style="font-size:13px; color:var(--med-gray);">SVG/AI para qualquer aplicação que escale · PNG para inserção rápida em documentos/slides · EPS só para destino legado · CMYK para impressão profissional · RGB para tela.</p>
+</main>
+
+<footer class="site wrap">
+  Fonte: guideline oficial, seção 02 Logo (p.7–19).
+</footer>
+
+</body>
+</html>

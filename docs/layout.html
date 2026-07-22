@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Layout & Grid — Manual de Marca VML</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <img src="img/logo/vml-wordmark-black.svg" alt="VML">
+      <img src="img/logo/vml-wordmark-white.svg" alt="VML">
+      <span class="tag">Manual de Marca</span>
+    </a>
+  </div>
+  <nav class="tabs">
+    <a href="index.html">Início</a>
+    <a href="principios.html">Princípios</a>
+    <a href="logo.html">Logo</a>
+    <a href="cor.html">Cor</a>
+    <a href="tipografia.html">Tipografia</a>
+    <a href="layout.html" class="active">Layout &amp; Grid</a>
+    <a href="elementos.html">Elementos</a>
+    <a href="human-first.html">Human First</a>
+    <a href="aplicacoes.html">Aplicações</a>
+    <a href="governanca.html">QA &amp; Governança</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  <p class="kicker">05 — Layout e Grid</p>
+  <h1>The Square.</h1>
+  <p class="lede">Uso predominante do quadrado e formas retilíneas, sempre com ângulos retos de 90°. Layouts devem parecer feitos por humanos, como uma colagem — casual, limpo, sem esforço aparente.</p>
+
+  <div style="display:flex; gap:8px; margin:24px 0;">
+    <div style="width:80px; height:80px; background:var(--vml-black);"></div>
+    <div style="width:80px; height:80px; border:2px solid var(--vml-black);"></div>
+    <div style="width:120px; height:80px; background:var(--green-dark);"></div>
+    <div style="width:80px; height:120px; border:2px solid var(--vml-black);"></div>
+  </div>
+  <p style="font-size:13px; color:var(--med-gray);">O quadrado ecoa a solidez e simetria do símbolo Spark — é o elemento que estabelece ritmo e consistência entre layouts e mídias.</p>
+
+  <div class="rule hard">
+    <div class="label">Regra dura</div>
+    Não usar cantos arredondados nem círculos. Usar apenas quadrados e retângulos com ângulos de 90° exatos. Formatos companheiros citados no guideline: <b>9:16, 16:9 e 4:5</b>.
+  </div>
+
+  <h2>Sistema "digital collage"</h2>
+  <p style="font-size:14px; color:var(--med-gray); max-width:640px;">Categorias de composição, usadas como ponto de partida — não como grade obrigatória fixa:</p>
+  <div class="cards">
+    <div class="card"><h4>Grid</h4><p>Organização em grade.</p></div>
+    <div class="card"><h4>Layer</h4><p>Sobreposição de elementos.</p></div>
+    <div class="card"><h4>Path</h4><p>Composição ao longo de um caminho/trajetória.</p></div>
+    <div class="card"><h4>Random</h4><p>Distribuição aparentemente aleatória, mas estruturada.</p></div>
+    <div class="card"><h4>Singular</h4><p>Um elemento central dominante.</p></div>
+    <div class="card"><h4>Abstract graphic</h4><p>Elemento gráfico abstrato.</p></div>
+  </div>
+
+  <h2>Dois usos do digital collage</h2>
+  <ul class="checklist">
+    <li><b>Housing imagery</b> — usar quadrados/formas retilíneas como moldura/container de imagens.</li>
+    <li><b>Graphic element</b> — usar quadrados/formas retilíneas como elemento gráfico autônomo (sem imagem dentro).</li>
+  </ul>
+
+  <h2>Checklist ao montar um layout customizado</h2>
+  <ul class="checklist">
+    <li>Uso proeminente de quadrado e retângulos.</li>
+    <li>Composições simples, em camadas, editoriais.</li>
+    <li>Espaço negativo generoso.</li>
+    <li>Contraste de escala ou repetição controlada de elementos.</li>
+    <li>Estruturado, mas sem alinhamento perfeito/mecânico — o desalinhamento leve é intencional (tom "Human").</li>
+  </ul>
+
+  <div class="dont">
+    <div class="label">Don't</div>
+    Layouts excessivamente complexos. Outras formas geométricas quando um quadrado/retângulo resolveria. Cantos arredondados — sempre 90°. Sobrecarregar comunicações com excesso de elementos gráficos simultâneos.
+  </div>
+
+  <p style="font-size:13px; color:var(--med-gray); max-width:640px; margin-top:32px;">Sem capacidade de design custom? O guideline recomenda partir dos templates de apresentação oficiais — ver <a href="aplicacoes.html">Aplicações</a>.</p>
+</main>
+
+<footer class="site wrap">
+  Fonte: guideline oficial, seção 05 Layout (p.36–44).
+</footer>
+
+</body>
+</html>

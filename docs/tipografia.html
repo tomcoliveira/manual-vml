@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Tipografia — Manual de Marca VML</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <img src="img/logo/vml-wordmark-black.svg" alt="VML">
+      <img src="img/logo/vml-wordmark-white.svg" alt="VML">
+      <span class="tag">Manual de Marca</span>
+    </a>
+  </div>
+  <nav class="tabs">
+    <a href="index.html">Início</a>
+    <a href="principios.html">Princípios</a>
+    <a href="logo.html">Logo</a>
+    <a href="cor.html">Cor</a>
+    <a href="tipografia.html" class="active">Tipografia</a>
+    <a href="layout.html">Layout &amp; Grid</a>
+    <a href="elementos.html">Elementos</a>
+    <a href="human-first.html">Human First</a>
+    <a href="aplicacoes.html">Aplicações</a>
+    <a href="governanca.html">QA &amp; Governança</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  <p class="kicker">04 — Tipografia</p>
+  <h1>Snowflake Sans.</h1>
+  <p class="lede">Fonte proprietária da VML, desenhada para harmonizar com a geometria do símbolo Spark. Usar para quase tudo, em quase todo lugar. Peso padrão: Medium, em title case ou sentence case.</p>
+
+  <h2>Pesos disponíveis</h2>
+  <div class="type-sample"><div class="meta">Light — SnowflakeSans-Light.otf</div><div class="txt" style="font-weight:300;">VML: Human, Confident, Premium</div></div>
+  <div class="type-sample"><div class="meta">Book — SnowflakeSans-Book.otf (peso "regular")</div><div class="txt" style="font-weight:400;">VML: Human, Confident, Premium</div></div>
+  <div class="type-sample"><div class="meta">Medium — SnowflakeSans-Medium.otf · peso padrão de uso</div><div class="txt" style="font-weight:500;">VML: Human, Confident, Premium</div></div>
+  <div class="type-sample"><div class="meta">Bold — SnowflakeSans-Bold.otf</div><div class="txt" style="font-weight:700;">VML: Human, Confident, Premium</div></div>
+  <div class="type-sample"><div class="meta">Black — SnowflakeSans-Black.otf · uso restrito (ex.: logos regionais com Spark)</div><div class="txt" style="font-weight:900;">VML: Human, Confident, Premium</div></div>
+  <div class="type-sample"><div class="meta">Inline — SnowflakeInline-Inlinex1.otf · decorativo, NÃO usar em corpo de texto</div><div class="txt" style="font-family:'Snowflake Inline';">VML: Human, Confident, Premium</div></div>
+
+  <div class="rule">
+    <div class="label">Peso padrão</div>
+    Definir <b>Snowflake Sans Medium</b> como peso-base do corpo de texto e títulos em qualquer template (docx, pptx, HTML). Reservar Black/Bold para destaques pontuais, não como padrão de título.
+  </div>
+
+  <h2>Regras de uso</h2>
+  <ul class="checklist">
+    <li>Peso padrão: Medium, em title case ou sentence case — a mistura de maiúsculas/minúsculas já cria o tom discreto da marca.</li>
+    <li>Caixa alta (uppercase) permitida só se o design/conceito exigir.</li>
+    <li>Pesos adicionais servem para textura/hierarquia, não como padrão.</li>
+    <li>Tamanhos extra-grandes: só para ênfase pontual.</li>
+    <li>Em escalas grandes: apertar tracking/leading. Em corpo de texto: abrir leading para legibilidade.</li>
+  </ul>
+
+  <h2>Família Inline</h2>
+  <div class="dont">
+    <div class="label">Don't</div>
+    Evitar usar os pesos Snowflake Sans Inline para manter um visual limpo e consistente — são decorativos/display, não para corpo de texto ou títulos padrão.
+  </div>
+
+  <h2>Fallback: Arial</h2>
+  <p style="font-size:14px; max-width:640px;">Usar Arial <b>somente</b> quando Snowflake Sans não estiver disponível (Google Slides, assinatura de e-mail). Não substituir por outra família (Helvetica, system-ui etc.) sem necessidade técnica real — documentar a substituição como fallback técnico, não como escolha de estilo.</p>
+
+  <h2>Arquivos disponíveis</h2>
+  <table>
+    <tr><th>Arquivo</th><th>Peso/estilo</th></tr>
+    <tr><td>SnowflakeSans-Light.otf</td><td>Light</td></tr>
+    <tr><td>SnowflakeSans-LightItalic.otf</td><td>Light Italic</td></tr>
+    <tr><td>SnowflakeSans-Book.otf</td><td>Book (regular)</td></tr>
+    <tr><td>SnowflakeSans-Italic.otf</td><td>Book Italic</td></tr>
+    <tr><td>SnowflakeSans-Medium.otf</td><td>Medium — padrão</td></tr>
+    <tr><td>SnowflakeSans-MediumItalic.otf</td><td>Medium Italic</td></tr>
+    <tr><td>SnowflakeSans-Bold.otf</td><td>Bold</td></tr>
+    <tr><td>SnowflakeSans-BoldItalic.otf</td><td>Bold Italic</td></tr>
+    <tr><td>SnowflakeSans-Black.otf</td><td>Black — uso restrito</td></tr>
+    <tr><td>SnowflakeSans-BlackItalic.otf</td><td>Black Italic</td></tr>
+    <tr><td>SnowflakeInline-Inlinex1.otf / x2.otf</td><td>Inline — decorativo, uso restrito</td></tr>
+  </table>
+  <p style="font-size:13px; color:var(--med-gray);">Conjunto completo em <code>agente/assets/tipografia/</code>.</p>
+</main>
+
+<footer class="site wrap">
+  Fonte: guideline oficial, seção 04 Typography (p.31–35).
+</footer>
+
+</body>
+</html>

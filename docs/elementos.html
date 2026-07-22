@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Elementos de Design — Manual de Marca VML</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <img src="img/logo/vml-wordmark-black.svg" alt="VML">
+      <img src="img/logo/vml-wordmark-white.svg" alt="VML">
+      <span class="tag">Manual de Marca</span>
+    </a>
+  </div>
+  <nav class="tabs">
+    <a href="index.html">Início</a>
+    <a href="principios.html">Princípios</a>
+    <a href="logo.html">Logo</a>
+    <a href="cor.html">Cor</a>
+    <a href="tipografia.html">Tipografia</a>
+    <a href="layout.html">Layout &amp; Grid</a>
+    <a href="elementos.html" class="active">Elementos</a>
+    <a href="human-first.html">Human First</a>
+    <a href="aplicacoes.html">Aplicações</a>
+    <a href="governanca.html">QA &amp; Governança</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  <p class="kicker">06 — Elementos de Design</p>
+  <h1>Um elemento de cada vez.</h1>
+  <p class="lede">Existe variedade de elementos de apoio justamente para escolher o mais adequado a cada necessidade — nunca empilhar supergraphic + halftone + hand-drawn na mesma peça.</p>
+
+  <div class="tag-scope">Este manual mostra 1–2 exemplos por categoria. A biblioteca completa está no brand kit — ver <code>agente/00_LEIA-ME_INSTRUCOES_PARA_AGENTES.md</code>.</div>
+
+  <h2>Square supergraphic</h2>
+  <p style="font-size:14px; max-width:640px;">Fundos monocromáticos em cores de marca — forma simples de simular "digital collage" sem montar do zero. Ao sobrepor texto, usar a versão de <b>menor contraste</b>.</p>
+  <div class="figure on-black">
+    <img src="img/exemplos/exemplo_supergraphic_VMLBlack-on-DarkGreen.png" alt="Supergraphic VML Black sobre Dark Green">
+    <figcaption>Exemplo: VML Black sobre Dark Green. As outras 11 combinações de cor não estão neste manual — sinalizar necessidade em vez de recriar.</figcaption>
+  </div>
+
+  <h2>Spark halftone texture</h2>
+  <p style="font-size:14px; max-width:640px;">Tratamento textural aplicado a imagens — usado majoritariamente como fundo tonal abstrato. Watch-out técnico: vibração de padrão em telas digitais — mitigar aumentando a escala ou usando cor de menor contraste.</p>
+  <div class="figure">
+    <img src="img/exemplos/exemplo_spark_halftone_Green-Sky.jpg" alt="Spark halftone, família Green">
+    <figcaption>Exemplo: família Green. Dezenas de variações existem no brand kit completo (Black, Blue, Bronze, Gold, Gray, Green, Plum).</figcaption>
+  </div>
+
+  <h2>Hand-drawn toolkit</h2>
+  <p style="font-size:14px; max-width:640px;">Elementos renderizados à mão, estilo de linha/contorno gestual simples. <b>Não recriar nem gerar em estilo diferente</b> — usar exclusivamente os arquivos existentes.</p>
+  <div style="display:flex; gap:16px; flex-wrap:wrap; margin:16px 0;">
+    <div class="figure" style="width:160px;"><img src="img/exemplos/exemplo_hand_drawn_checkmark.gif" alt="Hand-drawn checkmark"><figcaption>Checkmark</figcaption></div>
+    <div class="figure" style="width:160px;"><img src="img/exemplos/exemplo_hand_drawn_arrow-up.gif" alt="Hand-drawn arrow up"><figcaption>Arrow up</figcaption></div>
+  </div>
+  <p style="font-size:13px; color:var(--med-gray); max-width:640px;">Tamanho máximo para detalhes soltos: 40px. Ícones temáticos (People, Comms, Data, Creative...): máx. 120px, mín. 50px — nota: esses ícones específicos não foram localizados como arquivos separados no brand kit fornecido; não inventar, sinalizar a lacuna.</p>
+
+  <h3>Ícones hand-drawn por categoria — ausência confirmada</h3>
+  <p style="font-size:14px; max-width:640px;">O guideline cita ícones para People/Global, Comms, Data Insights, Creative, Strategy, Technology, Journey/Timeline, Social, Misc e Health (máx. 120px, mín. 50px). Em 2026-07-22 fizemos uma busca direta em toda a árvore do brand kit completo — nenhum arquivo separado dessas categorias existe. Provavelmente estão só embutidos no PDF do guideline ou nos slides `.pptx`, não exportados como assets isolados.</p>
+  <div class="dont">
+    <div class="label">Don't</div>
+    Não inventar, não gerar com IA, não recriar a partir da descrição. Sinalizar ao usuário que o asset precisa ser extraído manualmente do PDF/template, ou solicitado ao time de Brand Design.
+  </div>
+
+  <h3>Core values illustration (Heart, Brains, Courage)</h3>
+  <p style="font-size:14px; max-width:640px;">Ilustrações de contorno simples para os valores da empresa — key art, fundos de Teams, pôsteres, cabeçalho de e-mail. Não alterar nem recriar em estilo diferente. Não incluídas neste manual — disponíveis no brand kit completo.</p>
+
+  <h2>Ilustração customizada</h2>
+  <div class="dont">
+    <div class="label">Don't</div>
+    Ilustrações de contorno simples sob encomenda são feitas internamente por um designer. Um agente/IA não deve gerá-las automaticamente — sinalizar a necessidade de contato com o time de Brand Design.
+  </div>
+
+  <h2>Watch-outs gerais</h2>
+  <ul class="checklist">
+    <li>Não usar todos os elementos ao mesmo tempo numa única peça.</li>
+    <li>Não usar elementos de marca em cores fora da paleta oficial.</li>
+    <li>Não recriar um elemento se ele já existe no toolkit — usar o arquivo original.</li>
+    <li>Não recriar ou imitar o estilo de ilustração sem contatar o time de marca.</li>
+    <li>Não inventar uma variação de cor/textura que não esteja disponível.</li>
+  </ul>
+</main>
+
+<footer class="site wrap">
+  Fonte: guideline oficial, seção 06 Design Elements (p.45–57).
+</footer>
+
+</body>
+</html>

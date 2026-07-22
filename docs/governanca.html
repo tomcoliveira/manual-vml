@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>QA & Governança — Manual de Marca VML</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="bar">
+    <a class="brand" href="index.html">
+      <img src="img/logo/vml-wordmark-black.svg" alt="VML">
+      <img src="img/logo/vml-wordmark-white.svg" alt="VML">
+      <span class="tag">Manual de Marca</span>
+    </a>
+  </div>
+  <nav class="tabs">
+    <a href="index.html">Início</a>
+    <a href="principios.html">Princípios</a>
+    <a href="logo.html">Logo</a>
+    <a href="cor.html">Cor</a>
+    <a href="tipografia.html">Tipografia</a>
+    <a href="layout.html">Layout &amp; Grid</a>
+    <a href="elementos.html">Elementos</a>
+    <a href="human-first.html">Human First</a>
+    <a href="aplicacoes.html">Aplicações</a>
+    <a href="governanca.html" class="active">QA &amp; Governança</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  <p class="kicker">13–14 — QA &amp; Governança</p>
+  <h1>O checklist final antes de entregar.</h1>
+  <p class="lede">Se qualquer item falhar, corrigir antes de considerar a peça pronta — não entregar com ressalva verbal ("está quase certo, mas...").</p>
+
+  <h2>Ordem de prioridade quando várias regras se aplicam</h2>
+  <p style="font-size:14px; max-width:640px; color:var(--med-gray);">Um teste real com agente de IA (2026-07-22) mostrou que um mesmo pedido costuma acionar mais de uma seção ao mesmo tempo (ex.: um cover slide aciona regras de cor e de template simultaneamente) — sem uma ordem definida, a sequência de decisão varia. Regra fixa a seguir:</p>
+  <div class="rule hard">
+    <div class="label">Sempre nesta sequência</div>
+    <ol style="margin:8px 0 0; padding-left:20px; font-size:14px;">
+      <li style="margin-bottom:8px;"><b>Gaps de asset/acesso primeiro</b> — checar se a peça depende de algo fora deste pacote (template, vídeo, asset inexistente). Se sim, sinalizar antes de decidir qualquer outra coisa.</li>
+      <li style="margin-bottom:8px;"><b>Proibições duras (watch-outs)</b> — se o pedido viola uma regra de "não fazer" de qualquer seção, recusar/alertar, independente do resto estar correto.</li>
+      <li style="margin-bottom:8px;"><b>Regras positivas de aplicação</b> — cor, tipografia, layout, elementos — para o que sobrar dentro do permitido.</li>
+      <li><b>Checklist de QA</b> (abaixo) como gate final, sempre por último.</li>
+    </ol>
+  </div>
+  <p style="font-size:13px; color:var(--med-gray); max-width:640px;">Resumo: <b>falta de material &gt; proibição &gt; regra de estilo &gt; QA final.</b> Nunca decidir estilo antes de confirmar que a peça é viável com o que está disponível.</p>
+
+  <h2>Logo</h2>
+  <ul class="checklist">
+    <li>O logotipo/Spark é o arquivo binário original (não redesenhado, recriado em SVG à mão, gerado por IA, recolorido, distorcido).</li>
+    <li>Tamanho ≥ 0,5" (impresso) ou ≥ 24px (digital).</li>
+    <li>Spark não é maior que a altura do logotipo quando separados.</li>
+    <li>Logotipo e Spark não têm cores diferentes na mesma peça.</li>
+    <li>Nenhum lockup novo foi inventado.</li>
+  </ul>
+
+  <h2>Cor</h2>
+  <ul class="checklist">
+    <li>No máximo uma família de cor secundária além de VML Black/White.</li>
+    <li>Nenhuma cor usada tem HEX fora da tabela oficial.</li>
+    <li>Tom-sobre-tom só em fundo/textura, nunca em texto/logo prioritário.</li>
+    <li>Sem vermelho saturado como cor de destaque na assinatura ou no Spark.</li>
+  </ul>
+
+  <h2>Tipografia</h2>
+  <ul class="checklist">
+    <li>Snowflake Sans (ou Arial como fallback declarado).</li>
+    <li>Peso padrão do corpo/títulos é Medium.</li>
+    <li>Nenhum peso "Inline" em corpo de texto ou título funcional.</li>
+  </ul>
+
+  <h2>Layout</h2>
+  <ul class="checklist">
+    <li>Formas com ângulos de 90° — nenhum canto arredondado ou círculo decorativo.</li>
+    <li>Espaço negativo suficiente; composição não sobrecarregada.</li>
+    <li>Nem mecânico demais, nem bagunçado — equilíbrio Human/Premium.</li>
+  </ul>
+
+  <h2>Elementos de design</h2>
+  <ul class="checklist">
+    <li>Não há mais de um elemento decorativo empilhado na mesma peça.</li>
+    <li>Variação não incluída nos exemplos foi sinalizada, não improvisada.</li>
+    <li>Nenhum elemento do toolkit foi recriado quando já existe um arquivo oficial.</li>
+  </ul>
+
+  <h2>Human First — só se aplicável</h2>
+  <ul class="checklist">
+    <li>A peça é genuinamente sobre a filosofia Human First, não uso decorativo de conveniência.</li>
+    <li>Nenhum asset Human First foi usado fora desse escopo.</li>
+    <li>Vídeo Anthemic: Intro intocada; Ending manteve mensagem/visual/copy; nenhuma adaptação externa publicada sem aprovação.</li>
+  </ul>
+
+  <h2>Templates e vídeo — só se aplicável</h2>
+  <ul class="checklist">
+    <li>Acesso ao brand kit completo confirmado antes de montar deck/documento/vídeo.</li>
+    <li>Parte de um template oficial catalogado, não de um documento genérico em branco.</li>
+    <li>Um único master (Light ou Dark) usado de forma consistente.</li>
+    <li>Nomes de layout usados existem de fato no template-fonte.</li>
+  </ul>
+
+  <h2>Governança</h2>
+  <ul class="checklist">
+    <li>Nenhuma peça marcada como "não recriar" ou "contatar Brand Design" foi gerada do zero sem sinalizar aprovação.</li>
+    <li>Uso público externo com aprovação prévia necessária foi comunicado explicitamente ao usuário, não decidido silenciosamente.</li>
+  </ul>
+
+  <h2>Contatos oficiais</h2>
+  <table>
+    <tr><th>Nome</th><th>E-mail</th><th>Escopo</th></tr>
+    <tr><td>Alex Cree</td><td>alex.cree@vml.com</td><td>Perguntas gerais sobre o guideline; aprovações do vídeo Anthemic/Human First</td></tr>
+    <tr><td>Rachel Mozena</td><td>rachel.mozena@vml.com</td><td>Perguntas gerais sobre o guideline</td></tr>
+  </table>
+  <p style="font-size:13px; color:var(--med-gray);">Download oficial de logos, cores e demais assets atualizados: <b>my.vml.com</b> — fonte canônica. Este manual reflete um recorte datado de 2026-06-30.</p>
+
+  <h2>Situações que exigem contato humano</h2>
+  <div class="dont">
+    <div class="label">Parar e sinalizar — não resolver via geração automática</div>
+    <ul style="margin:8px 0 0; padding-left:20px; font-size:14px;">
+      <li>Criação de qualquer novo logo, lockup ou variação de arquitetura de marca.</li>
+      <li>Tradução ou recriação do logo Human First, Inky Spark ou hand-lettering.</li>
+      <li>Ilustração customizada além do que já existe no toolkit.</li>
+      <li>Adaptação do vídeo Anthemic/Human First para uso público externo.</li>
+      <li>Necessidade de asset que não existe neste manual nem no brand kit completo.</li>
+      <li>Necessidade de asset que existe no brand kit completo mas foi deixado fora deste recorte.</li>
+    </ul>
+  </div>
+</main>
+
+<footer class="site wrap">
+  Fonte: guideline oficial + regras de conduta consolidadas para uso por agentes de IA.
+</footer>
+
+</body>
+</html>
