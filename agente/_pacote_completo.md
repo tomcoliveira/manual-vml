@@ -10,6 +10,21 @@ Gerado a partir dos 14 arquivos markdown desta pasta, para colar de uma vez em a
 Fonte: `VML Brand Identity Guidelines | Version 1 | January 2026` + seleção enxuta de assets do brand kit oficial.
 Gerado em: 2026-06-30. Válido enquanto não houver nova versão do guideline publicada em my.vml.com.
 
+## Antes de qualquer outra coisa: esta base serve para CRIAR peças novas
+
+**O caso de uso principal desta base é geração — não checagem de material pronto.** Um agente deve usar isto para montar decks, posts, documentos e peças novas do zero, aplicando as regras de marca corretamente desde a primeira versão. Avaliar uma peça já pronta é um caso de uso secundário, não o principal.
+
+As várias instruções de "não recriar" / "não gerar" espalhadas pelo resto deste pacote **não são uma proibição geral de criar coisas.** Cada uma trava um alvo específico e nomeado — nunca "não criar peças de marca":
+
+| O que é proibido recriar/gerar do zero | O que continua liberado para gerar normalmente |
+|---|---|
+| O logotipo e o Spark em si (sempre usar o arquivo oficial) | Um deck, slide, post ou documento inteiro que *usa* o logotipo oficial |
+| Os assets protegidos do Human First (logo, Inky Spark, hand-lettering) — só fora do escopo Human First | Qualquer peça de marca geral (fora do escopo Human First) |
+| Um asset que não existe neste pacote nem no brand kit completo (ex.: header azul, ícone hand-drawn de categoria) | Uma peça usando os assets que **existem** — a lacuna trava só o asset específico faltante, não a peça inteira |
+| Ilustração customizada em estilo de contorno (feita por designer humano) | Composições, layouts e textos usando os elementos de design já disponíveis (supergraphic, halftone, hand-drawn existente) |
+
+Se uma tarefa não aparece explicitamente em uma das proibições nomeadas acima ou nos "watch-outs" de cada seção, **ela é permitida por padrão.** Na dúvida, o padrão é gerar aplicando as regras — não recusar por precaução.
+
 ## Isto é um pacote autossuficiente — leia isto primeiro
 
 Ao contrário de uma versão anterior deste material, **este pacote não depende de acesso a nenhuma pasta externa, OneDrive ou brand kit completo.** Tudo que ele referencia está dentro dele mesmo, na subpasta `assets/`. Pode ser copiado, zipado, enviado a qualquer agente/ferramenta que não tenha acesso ao ambiente do Tom, e ainda assim funcionar para as decisões que ele cobre.
