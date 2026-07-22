@@ -1,5 +1,8 @@
 # Manual de Marca — VML
 
+**Site publicado:** https://tomcoliveira.github.io/manual-vml/
+**Repositório:** https://github.com/tomcoliveira/manual-vml (público)
+
 Duas coisas, a mesma fonte de verdade:
 
 | Pasta | Para quem | O que é |
