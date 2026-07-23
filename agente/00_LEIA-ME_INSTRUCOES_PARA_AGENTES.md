@@ -29,6 +29,8 @@ Injetar no contexto de agentes (design, apresentação, social, documento) que p
 
 ## Estrutura do pacote
 
+**Sem acesso a arquivo local?** Todo item abaixo tem link público equivalente em [`LINKS_PUBLICOS.md`](LINKS_PUBLICOS.md) — raw (para agente ler/baixar) e/ou página do site (para humano abrir).
+
 | Item | Conteúdo | Quando consultar |
 |---|---|---|
 | `01_principios_e_filosofia.md` | Atributos de marca (Human/Confident/Premium) | Antes de qualquer decisão de tom/estilo |
