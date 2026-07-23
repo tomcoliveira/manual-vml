@@ -21,7 +21,7 @@ Se uma tarefa não aparece explicitamente em uma das proibições nomeadas acima
 
 Ao contrário de uma versão anterior deste material, **este pacote não depende de acesso a nenhuma pasta externa, OneDrive ou brand kit completo.** Tudo que ele referencia está dentro dele mesmo, na subpasta `assets/`. Pode ser copiado, zipado, enviado a qualquer agente/ferramenta que não tenha acesso ao ambiente do Tom, e ainda assim funcionar para as decisões que ele cobre.
 
-Tamanho total: ~28MB. **Não contém vídeo, nem os arquivos de template (.pptx/.key), nem a biblioteca completa de texturas/supergraphics.** Isso é intencional — o objetivo aqui é o logo oficial, a paleta, a tipografia e uma amostra representativa dos demais elementos, não uma cópia 1:1 do brand kit de 1,4GB.
+Tamanho total: ~48MB (28MB de identidade + 20MB da galeria de exemplos aplicados, seção `15`). **Não contém vídeo, nem os arquivos de template (.pptx/.key), nem a biblioteca completa de texturas/supergraphics.** Isso é intencional — o objetivo aqui é o logo oficial, a paleta, a tipografia, uma amostra representativa dos demais elementos, e agora também um catálogo visual amplo de peças já aplicadas — não uma cópia 1:1 do brand kit de 1,4GB.
 
 ## Propósito
 
@@ -46,7 +46,8 @@ Injetar no contexto de agentes (design, apresentação, social, documento) que p
 | `asset_manifest.json` | Catálogo machine-readable de tudo que está fisicamente incluído em `assets/`, mais a lista do que foi deliberadamente deixado de fora | Lookup programático de qualquer asset |
 | `13_checklist_qa.md` | Checklist de verificação antes de entregar qualquer peça | Sempre, como último passo |
 | `14_contatos_e_governanca.md` | Regras de propriedade de asset, quem aprova o quê | Casos que exigem aprovação humana |
-| `assets/` | Os arquivos físicos: logo (todos os formatos, preto e branco), cores `.ase`, fontes `.otf`, e uma pasta `exemplos/` com amostras leves de Human First, supergraphic, halftone e social | Sempre que uma regra pedir para "usar o arquivo X" |
+| `15_galeria_de_exemplos.md` | **44 peças reais aplicadas** — ambientes, papelaria, merchandise, digital/social, e-mail, Human First — extraídas da seção "Gallery" do guideline (p.78–118, nunca extraída antes de 2026-07-22) | Antes de gerar qualquer peça, para ver como o sistema fica aplicado de verdade, não só descrito |
+| `assets/` | Os arquivos físicos: logo (todos os formatos, preto e branco), cores `.ase`, fontes `.otf`, pasta `exemplos/` com amostras leves de Human First/supergraphic/halftone/social, e pasta `galeria/` com as 44 peças aplicadas da seção 15 | Sempre que uma regra pedir para "usar o arquivo X" |
 
 ## O que NÃO está neste pacote (e por quê)
 

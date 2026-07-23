@@ -2,7 +2,7 @@
   "gerado_em": "2026-06-30",
   "tipo_de_pacote": "portatil_autossuficiente",
   "observacao": "Este manifesto cobre apenas os arquivos fisicamente incluídos na pasta assets/ deste pacote. A seção 'nao_incluido_no_pacote' documenta o que existe no brand kit completo mas foi deixado de fora, e onde encontrar caso necessário.",
-  "total_arquivos_incluidos": 55,
+  "total_arquivos_incluidos": 99,
   "assets_incluidos": [
     {
       "path_relativo": "assets/cor/VML-Brand-Colors-CMYK.ase",
@@ -388,6 +388,314 @@
       "arquivo": "SnowflakeSans-MediumItalic.otf",
       "formato": "otf",
       "tamanho_bytes": 43116
+    },
+    {
+      "path_relativo": "assets/galeria/ambientes/gallery_p079.jpg",
+      "categoria": "galeria_ambientes",
+      "arquivo": "gallery_p079.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 413716
+    },
+    {
+      "path_relativo": "assets/galeria/ambientes/gallery_p080.jpg",
+      "categoria": "galeria_ambientes",
+      "arquivo": "gallery_p080.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 355883
+    },
+    {
+      "path_relativo": "assets/galeria/ambientes/gallery_p081.jpg",
+      "categoria": "galeria_ambientes",
+      "arquivo": "gallery_p081.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 797566
+    },
+    {
+      "path_relativo": "assets/galeria/ambientes/gallery_p082.jpg",
+      "categoria": "galeria_ambientes",
+      "arquivo": "gallery_p082.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 1048538
+    },
+    {
+      "path_relativo": "assets/galeria/ambientes/gallery_p083.jpg",
+      "categoria": "galeria_ambientes",
+      "arquivo": "gallery_p083.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 330673
+    },
+    {
+      "path_relativo": "assets/galeria/ambientes/gallery_p084.jpg",
+      "categoria": "galeria_ambientes",
+      "arquivo": "gallery_p084.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 935097
+    },
+    {
+      "path_relativo": "assets/galeria/ambientes/gallery_p085.jpg",
+      "categoria": "galeria_ambientes",
+      "arquivo": "gallery_p085.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 607396
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p106.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p106.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 147143
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p107.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p107.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 765954
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p108.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p108.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 338524
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p109.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p109.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 501071
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p110.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p110.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 403805
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p111.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p111.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 471134
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p112.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p112.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 636213
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p114.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p114.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 488049
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p120.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p120.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 383681
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p121.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p121.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 436256
+    },
+    {
+      "path_relativo": "assets/galeria/digital_social/gallery_p122.jpg",
+      "categoria": "galeria_digital_social",
+      "arquivo": "gallery_p122.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 604603
+    },
+    {
+      "path_relativo": "assets/galeria/email/gallery_p113.jpg",
+      "categoria": "galeria_email",
+      "arquivo": "gallery_p113.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 115174
+    },
+    {
+      "path_relativo": "assets/galeria/human_first/gallery_p115.jpg",
+      "categoria": "galeria_human_first",
+      "arquivo": "gallery_p115.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 396243
+    },
+    {
+      "path_relativo": "assets/galeria/human_first/gallery_p116.jpg",
+      "categoria": "galeria_human_first",
+      "arquivo": "gallery_p116.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 732850
+    },
+    {
+      "path_relativo": "assets/galeria/human_first/gallery_p117.jpg",
+      "categoria": "galeria_human_first",
+      "arquivo": "gallery_p117.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 290930
+    },
+    {
+      "path_relativo": "assets/galeria/human_first/gallery_p118.jpg",
+      "categoria": "galeria_human_first",
+      "arquivo": "gallery_p118.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 406773
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p088.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p088.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 325810
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p089.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p089.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 242929
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p090.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p090.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 332725
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p091.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p091.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 388870
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p092.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p092.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 583441
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p093.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p093.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 276064
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p094.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p094.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 902445
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p095.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p095.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 1014444
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p096.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p096.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 762784
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p097.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p097.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 147895
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p098.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p098.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 110752
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p099.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p099.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 160217
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p100.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p100.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 242524
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p101.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p101.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 1612331
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p102.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p102.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 697275
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p103.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p103.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 303594
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p104.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p104.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 337207
+    },
+    {
+      "path_relativo": "assets/galeria/merchandise/gallery_p105.jpg",
+      "categoria": "galeria_merchandise",
+      "arquivo": "gallery_p105.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 158066
+    },
+    {
+      "path_relativo": "assets/galeria/outros/gallery_p119.jpg",
+      "categoria": "galeria_outros",
+      "arquivo": "gallery_p119.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 394106
+    },
+    {
+      "path_relativo": "assets/galeria/papelaria/gallery_p086.jpg",
+      "categoria": "galeria_papelaria",
+      "arquivo": "gallery_p086.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 489627
+    },
+    {
+      "path_relativo": "assets/galeria/papelaria/gallery_p087.jpg",
+      "categoria": "galeria_papelaria",
+      "arquivo": "gallery_p087.jpg",
+      "formato": "jpg",
+      "tamanho_bytes": 130646
     }
   ],
   "nao_incluido_no_pacote": [
@@ -436,5 +744,6 @@
       "descricao": "19 das 21 combinações de header social (Facebook, X, e demais variantes de cor do LinkedIn) — só 2 exemplos de LinkedIn incluídos",
       "onde_encontrar": "brand kit completo: 07_social/"
     }
-  ]
+  ],
+  "atualizado_em_2026-07-22": "Adicionada secao 15 (galeria de exemplos aplicados): 44 imagens extraidas da secao 'Gallery' do guideline oficial (p.78-118), nunca antes catalogadas."
 }

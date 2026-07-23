@@ -2,6 +2,8 @@
 
 Fonte: inspeção direta dos arquivos `.pptx` no brand kit completo (python-pptx). **Os arquivos `.pptx`/`.key`/`.docx` em si NÃO estão incluídos neste pacote portátil** (339MB no total) — o que segue é o manifesto textual dos layouts existentes, para um agente saber o que pedir/procurar no brand kit completo, não para montar o deck localmente sem esses arquivos.
 
+**Referência visual disponível:** `15_galeria_de_exemplos.md` inclui duas páginas do guideline mostrando esses layouts renderizados de verdade — `assets/galeria/digital_social/gallery_p107.jpg` (grade com Cover, Keynote Cover Slide Title, Section Divider, Our Team, Interior Collage etc.) e `gallery_p108.jpg` (slide de capa "Welcome to VML" em detalhe). Não substitui o arquivo-fonte `.pptx`, mas ajuda a reconhecer o padrão visual antes de ter acesso a ele.
+
 Regra geral: **sempre partir de um destes templates**, nunca de um slide em branco, quando a entrega for um deck ou documento com identidade VML.
 
 ## 1. Deck geral (uso comum, formato 4:3 widescreen 13.33"×7.5")

@@ -36,7 +36,7 @@ Elementos renderizados à mão, estilo de linha/contorno gestual simples. **Não
 
 ### 4a. Core values illustration (Heart, Brains, Courage)
 
-Ilustrações de contorno simples para os valores da empresa. Usos citados: key art, fundos de Teams, pôsteres, cabeçalho de e-mail. **Não alterar nem recriar em estilo diferente.** Não incluídas neste pacote (não fazem parte do recorte "logo + exemplos leves" solicitado) — disponíveis no brand kit completo.
+Ilustrações de contorno simples para os valores da empresa. Usos citados: key art, fundos de Teams, pôsteres, cabeçalho de e-mail. **Não alterar nem recriar em estilo diferente.** O arquivo-fonte isolado (vetor exportável de cada ícone) não está neste pacote nem foi localizado no brand kit completo. Existe, porém, confirmação visual de como os três ícones se parecem aplicados juntos: `15_galeria_de_exemplos.md` → `assets/galeria/human_first/gallery_p118.jpg` (mockup de laptop com a página "Our Core Values", cabeça/coração/mão em contorno simples). Use essa imagem como referência de reconhecimento — não como arquivo para recortar/reinserir.
 
 ### 4b. Ícones hand-drawn (categorias temáticas)
 
